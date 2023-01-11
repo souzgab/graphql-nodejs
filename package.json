@@ -23,7 +23,7 @@
     "express-graphql": "^0.9.0",
     "graphql": "^15.0.0",
     "graphql-tools": "^5.0.0",
-    "knex": "^0.21.1",
+    "knex": "^2.4.0",
     "mysql": "^2.18.1",
     "nodemon": "^2.0.4"
   }
